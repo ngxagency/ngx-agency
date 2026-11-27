@@ -1,0 +1,23 @@
+{
+  "name": "Ada Lovelace",
+  "email": "ada@example.com",
+  "phone": "",
+  "company": "Analytical Engines",
+  "industry": "",
+  "revenue": "",
+  "message": "Scheduling slips.",
+  "website": "https://example.com",
+  "staff_size": "6-20",
+  "role": "Founder",
+  "admin_hours_per_week": "12",
+  "source": "ngx-site-v1",
+  "utm_source": "qc",
+  "utm_medium": "cpc",
+  "utm_campaign": "audit",
+  "utm_content": "",
+  "utm_term": "",
+  "fbclid": "fb123",
+  "gclid": "",
+  "li_fat_id": "",
+  "landing_path": "/free-audit/"
+}
